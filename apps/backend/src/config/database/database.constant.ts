@@ -1,0 +1,3 @@
+export const DATABASE_CONSTANT = {
+  DATA_SOURCE: 'DATA_SOURCE',
+};
